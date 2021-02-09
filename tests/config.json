@@ -1,0 +1,6 @@
+{
+    "DBUrl": "postgres://user:password@postgre.srvdata.net/dbname",
+    "HttpPort": "2021",
+    "JWTSecretKey": "madafaka-xyz",
+    "DirFront": "../frontend/build/"
+}
